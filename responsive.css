@@ -64,6 +64,8 @@ p{
 }
 .banner-btns .mobile_menu {
     display: inline-block;
+    padding: 7px 15px;
+    font-size: 14px;
 }
     .section-1 {
         text-align: center;
@@ -137,6 +139,17 @@ h4{
 }
 .nav.nav-pills .nav-link {
     font-size: 16px;
+}
+.banner-btns {
+    display: flex;
+    align-items: center;
+}
+#contact-form .banner-btns{
+    justify-content: end !important;
+}
+.social_icons .icons {
+    width: 36px;
+    height: 36px;
 }
 }
 	
