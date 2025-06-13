@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charleswebdesigner.netlify.app/sitemap.xml
