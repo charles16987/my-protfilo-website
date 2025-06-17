@@ -632,3 +632,15 @@ textarea:active{
 .card-skills {
     margin-top: 25px;
 }
+.social-media-fixed {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  display: flex;
+  flex-direction: column;
+  display: none;
+}
+.social-media-fixed .social_icons {
+    margin: 0;
+    margin-bottom: 15px;
+}

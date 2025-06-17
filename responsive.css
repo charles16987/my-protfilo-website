@@ -151,5 +151,19 @@ h4{
     width: 36px;
     height: 36px;
 }
+.fa-phone {
+    font-size: 15px !important;
+}
+.social-media-fixed {
+  position: fixed;
+  bottom: 5px;
+  right: 15px;
+  display: block;
+  display: flex;
+  flex-direction: column;
+}
+.social_icons .icons {
+    background: #140c1c;
+}
 }
 	
