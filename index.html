@@ -3,28 +3,20 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Charles | Web Developer & Shopify Expert</title>
-     <meta name="description" content="Charles – Web Developer specializing in modern websites, UI design, Shopify, and responsive web solutions." />
+    <title>Charles | Website Designer in Thanjavur | Web Developer & Shopify Expert</title>
+    <meta name="description" content="Charles – Website Designer in Thanjavur. Specializing in modern, responsive websites, UI design, Shopify stores, and SEO-friendly solutions." />
     <link rel="shortcut icon" type="image/x-icon" href="images/code.png" />
+    <!-- Open Graph Tags -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://charleswebdesigner.netlify.app/" />
-    <meta
-      property="og:title"
-      content="Charles | Web Developer & Shopify Expert"
-    />
-    <meta
-      property="og:description"
-      content="Charles –  Web Developer specializing in modern websites, UI design, Shopify, and responsive web solutions."
-    />
+    <meta property="og:title" content="Charles | Website Designer in Thanjavur | Web Developer & Shopify Expert" />
+    <meta property="og:description" content="Charles – Website Designer in Thanjavur. Specializing in modern, responsive websites, UI design, Shopify stores, and SEO-friendly solutions." />
     <meta property="og:image" content="images/meta-img.png" />
     <meta property="og:image:width" content="512" />
     <meta property="og:image:height" content="307" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="CACHE-CONTROL" content="NO-CACHE" />
-    <meta
-      name="viewport"
-      content="width=device-width,minimum-scale=1,initial-scale=1"
-    />
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
@@ -616,6 +608,11 @@
             }, function(error) {
                 alert("❌ Failed to send message: " + error.text);
             });
+        });
+        // Hide loader when page is fully loaded
+        window.addEventListener("load", function() {
+          document.getElementById("loader").style.display = "none";  // Hide loader
+          document.getElementById("content").style.display = "block"; // Show page
         });
     </script>
   </body>
