@@ -644,3 +644,64 @@ textarea:active{
     margin: 0;
     margin-bottom: 15px;
 }
+.inner-banner{
+    background: #20132e;
+    padding-top: 120px;
+    padding-bottom: 70px;
+}
+.inner-page header{
+    background: var(--para--color);
+    box-shadow: 0 0 30px rgba(135, 80, 247, 0.2);
+}
+.blog-card{
+        margin-top: 30px;
+   
+}
+.blog-card img{
+ box-shadow: 0 0 30px rgba(135, 80, 247, 0.3);
+}
+.blog-card h4{
+    color: #fff;
+}
+.blog-date {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #a5a5a5;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.dot-fa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blog-date .fa-circle {
+    font-size: 5px;
+}
+.inner-title {
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+.blog-detials-page h1{
+    color: #fff;
+}
+.blog-detials-page h4{
+    color: #fff;
+}
+.blog-detials-page .blog-img{
+        margin-top: 100px;
+        margin-bottom: 30px;
+}
+
+.blog-detials-page header{
+    background: var(--para--color);
+    box-shadow: 0 0 30px rgba(135, 80, 247, 0.2);
+}
+.blog-list.home-blog .inner-title{
+    padding-top: 0;
+    padding-bottom: 20px;
+}
+a.active {
+    color: var(--primary--color) !important;
+}

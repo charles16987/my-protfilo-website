@@ -145,7 +145,7 @@ h4{
     align-items: center;
 }
 #contact-form .banner-btns{
-    justify-content: end !important;
+    justify-content: center !important;
 }
 .social_icons .icons {
     width: 36px;
@@ -164,6 +164,9 @@ h4{
 }
 .social_icons .icons {
     background: #140c1c;
+}
+.banner-btns.text-center{
+    justify-content: center;
 }
 }
 	
