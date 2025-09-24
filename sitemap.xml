@@ -9,14 +9,60 @@
 
 <url>
   <loc>https://charleswebdesigner.netlify.app/</loc>
-  <lastmod>2025-06-13T05:50:12+00:00</lastmod>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://charleswebdesigner.netlify.app/blog</loc>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://charleswebdesigner.netlify.app/images/charles-resume.pdf</loc>
-  <lastmod>2025-06-13T05:50:12+00:00</lastmod>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://charleswebdesigner.netlify.app/best-seo-practices-local-businesses-tamil-nadu</loc>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://charleswebdesigner.netlify.app/how-website-design-helps-small-businesses-grow-tamil-nadu</loc>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://charleswebdesigner.netlify.app/top-10-digital-marketing-seo-trends-tamil-nadu</loc>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://charleswebdesigner.netlify.app/thanjavur/best-website-development-company-thanjavur</loc>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://charleswebdesigner.netlify.app/thanjavur/ecommerce-website-development-thanjavur</loc>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://charleswebdesigner.netlify.app/thanjavur/seo-friendly-website-development-thanjavur</loc>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://charleswebdesigner.netlify.app/thanjavur/top-web-design-services-thanjavur</loc>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://charleswebdesigner.netlify.app/thanjavur/wordpress-website-design-thanjavur</loc>
+  <lastmod>2025-09-24T05:11:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>

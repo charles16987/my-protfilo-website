@@ -1,3 +1,6 @@
+# Allow all robots full access
 User-agent: *
-Allow: /
+Disallow:
+
+# Sitemap location
 Sitemap: https://charleswebdesigner.netlify.app/sitemap.xml
