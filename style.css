@@ -705,3 +705,6 @@ textarea:active{
 a.active {
     color: var(--primary--color) !important;
 }
+.blog-detials-page h1{
+    font-weight: 500 !important;
+}
