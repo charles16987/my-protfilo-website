@@ -708,3 +708,15 @@ a.active {
 .blog-detials-page h1{
     font-weight: 500 !important;
 }
+.internal-links ul li a{
+    color:#606060;
+    font-size: 13px;
+}
+.internal-links ul li a:hover{
+    color: var(--primary--color);
+}
+.internal-links ul{
+    list-style: none;
+    padding: 0;
+    padding-bottom: 5px;
+}
