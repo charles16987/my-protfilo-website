@@ -724,7 +724,12 @@
           <a href="tel:+917598825487" target="_blank" class="icons"><i class="fa-solid fa-phone"></i></a>
         </div>
     </div>
-
+<div id="offerPopup" class="offer-popup-overlay">
+  <div class="offer-popup">
+    <span class="close-btn" id="closeOffer">&times;</span>
+    <img src="./images/2.png" alt="Special Offer" />
+  </div>
+</div>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
@@ -759,6 +764,26 @@
           document.getElementById("loader").style.display = "none";  // Hide loader
           document.getElementById("content").style.display = "block"; // Show page
         });
+
+
+        // OFFER POPUP 
+  window.addEventListener("load", function () {
+    setTimeout(() => {
+      document.getElementById("offerPopup").style.display = "flex";
+    }, 1500); // show after 1.5 seconds
+  });
+
+  // Close popup
+  document.getElementById("closeOffer").onclick = function () {
+    document.getElementById("offerPopup").style.display = "none";
+  };
+
+  // Close when clicking outside
+  document.getElementById("offerPopup").addEventListener("click", function (e) {
+    if (e.target === this) {
+      this.style.display = "none";
+    }
+  });
     </script>
     <!--Start of Tawk.to Script-->
       <!-- <script type="text/javascript">
