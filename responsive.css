@@ -161,6 +161,7 @@ h4{
   display: block;
   display: flex;
   flex-direction: column;
+  z-index: 10000;
 }
 .social_icons .icons {
     background: #140c1c;
@@ -168,5 +169,8 @@ h4{
 .banner-btns.text-center{
     justify-content: center;
 }
+.banner-text .title.min-title {
+    font-size: 35px;
+} 
 }
 	

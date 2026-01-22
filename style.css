@@ -157,6 +157,9 @@ section{
     -webkit-text-fill-color: transparent;
     font-size: 60px;
 }
+.banner-text .title.min-title {
+     font-size: 50px;
+}
 .about-img img {
     max-width: 400px;
     margin: auto;
