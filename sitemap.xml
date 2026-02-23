@@ -1,206 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/blog</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- BLOG POSTS -->
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/best-seo-practices-local-businesses-tamil-nadu</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/how-website-design-helps-small-businesses-grow-tamil-nadu</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/top-10-digital-marketing-seo-trends-tamil-nadu</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- THANJAVUR -->
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/thanjavur/best-website-development-company-thanjavur</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/thanjavur/ecommerce-website-development-thanjavur</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/thanjavur/seo-friendly-website-development-thanjavur</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/thanjavur/top-web-design-services-thanjavur</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/thanjavur/wordpress-website-design-thanjavur</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/thanjavur/best-it-company-for-small-business-in-thanjavur</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/thanjavur/best-it-solutions-company-in-thanjavur-affordable-reliable</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/thanjavur/best-top-software-companies-thanjavur</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/thanjavur/top-rated-quality-software-companies-thanjavur</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <!-- CHENNAI -->
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/chennai/website-design-services-chennai</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/chennai/best-website-development-company-chennai</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/chennai/ecommerce-website-development-chennai</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/chennai/seo-friendly-website-development-chennai</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/chennai/top-web-design-services-chennai</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/chennai/wordpress-website-design-chennai</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/chennai/best-it-company-for-small-business-in-chennai</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/chennai/best-it-solutions-company-in-chennai-affordable-reliable</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/chennai/best-top-software-companies-chennai</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/chennai/top-rated-quality-software-companies-chennai</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <!-- COIMBATORE -->
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/coimbatore/best-website-development-company-coimbatore</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/coimbatore/ecommerce-website-development-coimbatore</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/coimbatore/seo-friendly-website-development-coimbatore</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/coimbatore/top-web-design-services-coimbatore</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/coimbatore/wordpress-website-design-coimbatore</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/coimbatore/best-it-company-for-small-business-in-coimbatore</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/coimbatore/best-it-solutions-company-in-coimbatore-affordable-reliable</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/coimbatore/best-top-software-companies-coimbatore</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
-  <url>
-    <loc>https://charleswebdesigner.netlify.app/coimbatore/top-rated-quality-software-companies-coimbatore</loc>
-    <lastmod>2026-01-25</lastmod>
-    <priority>0.64</priority>
-  </url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<url>
+<loc>https://charleswebdesigner.netlify.app/</loc>
+<lastmod>2026-02-23T16:53:34+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://charleswebdesigner.netlify.app/blog</loc>
+<lastmod>2026-02-23T16:53:34+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://charleswebdesigner.netlify.app/best-seo-practices-local-businesses-tamil-nadu</loc>
+<lastmod>2026-02-23T16:53:34+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://charleswebdesigner.netlify.app/how-website-design-helps-small-businesses-grow-tamil-nadu</loc>
+<lastmod>2026-02-23T16:53:34+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://charleswebdesigner.netlify.app/top-10-digital-marketing-seo-trends-tamil-nadu</loc>
+<lastmod>2026-02-23T16:53:34+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://charleswebdesigner.netlify.app/chennai/website-design-services-chennai</loc>
+<lastmod>2026-02-23T16:53:34+00:00</lastmod>
+<priority>0.80</priority>
+</url>
 </urlset>
