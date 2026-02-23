@@ -776,3 +776,7 @@ a.active {
   from { transform: scale(0.8); opacity: 0; }
   to { transform: scale(1); opacity: 1; }
 }
+.internal-links a{
+    color: #fff;
+    text-decoration: underline;
+}
