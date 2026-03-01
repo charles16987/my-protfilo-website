@@ -780,3 +780,13 @@ a.active {
     color: #fff;
     text-decoration: underline;
 }
+.local-page h2{
+    color: #fff;
+    font-weight: 400 !important;
+    font-size: 35px;
+}
+.local-page .banner-btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
