@@ -175,6 +175,12 @@ h4{
 .local-page h2 {
     font-size: 25px;
 }
-
+.blog-detials-page .blog-img {
+    margin-top: 40px;
+}
+.local-page li{
+    color: #fff;
+    font-size: 16px;
+}
 }
 	

@@ -790,3 +790,7 @@ a.active {
     align-items: center;
     justify-content: center;
 }
+.local-page li{
+    color: #fff;
+    font-size: 17px;
+}
