@@ -641,7 +641,9 @@ textarea:active{
   right: 15px;
   display: flex;
   flex-direction: column;
-  display: none;
+}
+.fa-phone {
+    font-size: 15px !important;
 }
 .social-media-fixed .social_icons {
     margin: 0;
@@ -793,4 +795,14 @@ a.active {
 .local-page li{
     color: #fff;
     font-size: 17px;
+}
+
+ul,ol{
+    color: #fff;
+}
+h3{
+    color: #fff;
+}
+blockquote{
+    color: #fff;
 }
