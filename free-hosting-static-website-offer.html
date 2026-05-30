@@ -9,7 +9,7 @@
     content="Exclusive Offer: Get free hosting for your 5 to 10-page static website. Partner with Charles, Website Design for modern, fast, and SEO-friendly web solutions." />
   <link rel="shortcut icon" type="image/x-icon" href="images/code.png" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://charleswebdesigner.netlify.app/" />
+  <meta property="og:url" content="https://charleswebdesigner.netlify.app/free-hosting-static-website-offer" />
   <meta property="og:title" content="Free Static Website Hosting Offer | Professional Web Design Services" />
   <meta property="og:description"
     content="Exclusive Offer: Get free hosting for your 5 to 10-page static website. Partner with Charles, Website Design." />
@@ -17,7 +17,6 @@
   <meta property="og:image:width" content="512" />
   <meta property="og:image:height" content="307" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta http-equiv="CACHE-CONTROL" content="NO-CACHE" />
   <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
     integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
@@ -46,22 +45,59 @@
 
     gtag('config', 'G-VJD1JX6ZVV');
   </script>
-  <script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
+  "@graph": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://charleswebdesigner.netlify.app/"
+      "@type": "BreadcrumbList",
+      "id": "https://charleswebdesigner.netlify.app/free-hosting-static-website-offer#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://charleswebdesigner.netlify.app/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://charleswebdesigner.netlify.app/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Free Hosting Static Website Offer",
+          "item": "https://charleswebdesigner.netlify.app/free-hosting-static-website-offer"
+        }
+      ]
     },
     {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Blog",
-      "item": "https://charleswebdesigner.netlify.app/blog"
+      "@type": "BlogPosting",
+      "@id": "https://charleswebdesigner.netlify.app/free-hosting-static-website-offer#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://charleswebdesigner.netlify.app/free-hosting-static-website-offer"
+      },
+      "headline": "Free Hosting If Static Website (5 to 10 Pages): The Ultimate Guide to Launching Your Business Online Cost-Free",
+      "description": "Exclusive Offer: Get free hosting for your 5 to 10-page static website. Partner with Charles, Website Design for modern, fast, and SEO-friendly web solutions.",
+      "image": "https://charleswebdesigner.netlify.app/images/free-hosting.jpg",
+      "author": {
+        "@type": "Person",
+        "name": "Charles",
+        "url": "https://charleswebdesigner.netlify.app/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Charles Website Design Services",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://charleswebdesigner.netlify.app/images/code.png"
+        }
+      },
+      "inLanguage": "en-US",
+      "mainEntityOfPage": "https://charleswebdesigner.netlify.app/free-hosting-static-website-offer"
     }
   ]
 }
@@ -320,7 +356,7 @@
         <div class="col-md-8 m-auto">
           <div class="row">
             <div class="col-md-12">
-              <h1 class="m-0 other-title inner-title">Related Blogs</h1>
+              <h2 class="m-0 other-title inner-title">Related Blogs</h2>
             </div>
           </div>
           <div class="row">
@@ -374,35 +410,7 @@
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
     crossorigin="anonymous"></script>
   <script src="app.js"></script>
-  <script>
-    document
-      .getElementById("contact-form")
-      .addEventListener("submit", function (e) {
-        e.preventDefault();
-
-        emailjs.sendForm("service_xjqpvld", "template_gyqjjlj", this).then(
-          function () {
-            // Show confirmation popup
-            const popup = document.getElementById('success-popup');
-            popup.style.display = 'block';
-
-            // Hide after 3 seconds
-            setTimeout(() => {
-              popup.style.display = 'none';
-            }, 3000); // 3000 milliseconds = 3 seconds
-
-            // Reset form
-            document.getElementById('contact-form').reset();
-          }, function (error) {
-            alert("❌ Failed to send message: " + error.text);
-          });
-      });
-    // Hide loader when page is fully loaded
-    window.addEventListener("load", function () {
-      document.getElementById("loader").style.display = "none";  // Hide loader
-      document.getElementById("content").style.display = "block"; // Show page
-    });
-  </script>
+  
 </body>
 
 </html>
