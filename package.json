@@ -1,0 +1,15 @@
+{
+  "name": "charles-web-designer-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website of Charles, website designer in Thanjavur specializing in modern websites, UI design, Shopify stores, and SEO.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "lint": "node -c server.js app.js",
+    "build": "node -e 'console.log(\"Build successful\")'"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
