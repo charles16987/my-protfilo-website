@@ -182,5 +182,16 @@ h4{
     color: #fff;
     font-size: 16px;
 }
+.google-preferred-card {
+    padding: 20px 16px;
+}
+.google-preferred-btn {
+    width: 100%;
+    justify-content: center;
+}
+.google-preferred-badge {
+    padding: 7px 14px;
+    font-size: 13px;
+}
 }
 	

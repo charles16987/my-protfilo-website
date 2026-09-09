@@ -872,3 +872,107 @@ blockquote{
 .blog-detials-page a:hover {
   color: #fff;
 }
+
+/* Google Preferred Source Component */
+.google-preferred-source-pill {
+  margin-top: 18px;
+  display: block;
+}
+.google-preferred-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(255, 255, 255, 0.07);
+  color: #fff !important;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 9999px;
+  padding: 8px 18px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: all 0.25s ease;
+}
+.google-preferred-badge:hover {
+  background: rgba(134, 80, 246, 0.22);
+  border-color: var(--primary--color);
+  color: #fff !important;
+  transform: translateY(-1px);
+}
+.google-preferred-badge .google-icon {
+  flex-shrink: 0;
+}
+.preferred-source-hint {
+  font-size: 13px;
+  color: #9ca3af;
+}
+
+/* Hide fallback link if official Google Preferred Source script injects the button */
+[google-add-preferred-source-btn]:not(:empty) + .google-preferred-badge,
+[google-add-preferred-source-btn]:not(:empty) + .google-preferred-btn {
+  display: none !important;
+}
+
+.google-footer-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: #d1d5db !important;
+  font-size: 13px;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+  margin-top: 6px;
+}
+.google-footer-link:hover {
+  color: #fff !important;
+}
+
+.google-preferred-card {
+  background: linear-gradient(135deg, rgba(134, 80, 246, 0.14) 0%, rgba(20, 12, 28, 0.85) 100%);
+  border: 1px solid rgba(134, 80, 246, 0.35);
+  border-radius: 16px;
+  padding: 24px;
+  margin: 30px 0;
+}
+.google-preferred-card h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.google-preferred-card p {
+  color: #d1d5db;
+  font-size: 15px;
+  margin-bottom: 0;
+}
+.google-preferred-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #ffffff;
+  color: #1f2937 !important;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 10px 20px;
+  border-radius: 9999px;
+  text-decoration: none !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+.google-preferred-btn:hover {
+  background: #f3f4f6;
+  color: #111827 !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+}
+.google-icon-box {
+  width: 46px;
+  height: 46px;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+

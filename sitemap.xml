@@ -1,33 +1,159 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://charleswebdesigner.netlify.app/</loc>
-<lastmod>2026-05-28T03:13:16+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://charleswebdesigner.netlify.app/blog</loc>
-<lastmod>2026-05-28T03:13:16+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://charleswebdesigner.netlify.app/best-seo-practices-local-businesses-tamil-nadu</loc>
-<lastmod>2026-05-28T03:13:16+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://charleswebdesigner.netlify.app/how-website-design-helps-small-businesses-grow-tamil-nadu</loc>
-<lastmod>2026-05-28T03:13:16+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://charleswebdesigner.netlify.app/top-10-digital-marketing-seo-trends-tamil-nadu</loc>
-<lastmod>2026-05-28T03:13:16+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://charleswebdesigner.netlify.app/free-hosting-static-website-offer</loc>
-<lastmod>2026-05-28T03:13:16+00:00</lastmod>
-<priority>0.80</priority>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Core Main Pages -->
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/service-areas/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/blog</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Blog & Informational Articles -->
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/best-seo-practices-local-businesses-tamil-nadu</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/how-website-design-helps-small-businesses-grow-tamil-nadu</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/top-10-digital-marketing-seo-trends-tamil-nadu</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/free-hosting-static-website-offer</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Thanjavur Specialized Service Pages (Website Design) -->
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/website-design-services/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/business-website-design/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/web-design-company/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Thanjavur Specialized Service Pages (WordPress Development) -->
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/wordpress-website-development/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/wordpress-web-design/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/wordpress-developer/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Thanjavur Specialized Service Pages (Shopify & eCommerce) -->
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/shopify-website-development/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/shopify-store-development/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/shopify-developer/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Thanjavur Specialized Service Pages (SEO Services) -->
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/seo-services/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/local-seo-services/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/seo-company/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Thanjavur Specialized Service Pages (Maintenance & Support) -->
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/website-maintenance-services/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/wordpress-website-maintenance/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://charleswebdesigner.netlify.app/thanjavur/website-support-services/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
 </urlset>
